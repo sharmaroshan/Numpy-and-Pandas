@@ -2,7 +2,7 @@
 
 Numpy and Pandas are one of the most important building blocks of knowledge to get started in the field of Data Science, Analytics, Machine Learning, Business Intelligence, and Business Analytics. This Tutorial Focuses to help the Beginners to learn the core Concepts of Numpy and Pandas and get started with Machine Learning and Data Science. 
 
-!(https://www.houseofbots.com/images/news/2895/cover.png)
+![Image](https://www.houseofbots.com/images/news/2895/cover.png)
 
 ## List of Contents
   ## Numpy:
