@@ -23,3 +23,7 @@ Numpy and Pandas are one of the most important building blocks of knowledge to g
     * 7. Handling Missing Data
     * 8. Introduction to Pandas Profiling
     * 9. Introduction to JSON'
+
+
+In case of any queries and doubts, please contact me via linkedin
+Linkedin Profile Link: https://www.linkedin.com/in/roshansharmadatascience/
